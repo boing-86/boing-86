@@ -25,7 +25,9 @@ I'm in charge of Localization in Autonomous Vehicle Lab.
 - 🔭 I’m currently working on Lab.RIMS(Research in Intelligent Mobility System)
 - 🌱 I’m currently learning C/C++, Python, ROS, Autonomous Vehicle 🚙
 - 📫 How to reach me: boing0806@gmail.com
-- 😄 Blog : https://blog.naver.com/boing0806 (only Korean)
+- 😄 Blog : 
+      https://blog.naver.com/boing0806 (only Korean)
+      https://velog.io/@boing-86 (only Korean)
 
 
 # Status
