@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm Boin! I'm student studing computer science 💻
 I'm in charge of Localization in Autonomous Vehicle Lab.
 
-- 🔭 I’m currently working on Lab.RIMS(Research in Intelligent Mobility System)
+- 🔭 I worked on Lab.RIMS(Research in Intelligent Mobility System)
 - 🌱 I’m currently learning C/C++, Python, ROS, Autonomous Vehicle 🚙
 - 📫 How to reach me: boing0806@gmail.com
 - 😄 Blog : 
