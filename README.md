@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-I'm Boin! I'm student studing computer science 💻
-I'm in charge of Localization in Autonomous Vehicle Lab.
+I'm Boin! I'm student studying computer science 💻
+I was in charge of Localization in Autonomous Vehicle Lab.
 
 - 🔭 I worked on Lab.RIMS(Research in Intelligent Mobility System)
 - 🌱 I’m currently learning C/C++, Python, ROS, Autonomous Vehicle 🚙
