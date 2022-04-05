@@ -24,6 +24,7 @@ I was in charge of Localization in Autonomous Vehicle Lab.
 
 - 🔭 I worked on Lab.RIMS(Research in Intelligent Mobility System)
 - 🌱 I’m currently learning C/C++, Python, ROS, Autonomous Vehicle 🚙
+- 💬 I'm Global Translator for Cousera (Lecture. Introduction to Self-Driving Cars)
 - 📫 How to reach me: boing0806@gmail.com
 - 😄 Blog : 
       https://blog.naver.com/boing0806 (only Korean)
